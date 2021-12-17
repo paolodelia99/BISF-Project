@@ -1,12 +1,17 @@
 
-# Stocks Energy sector
+# BISF Project
 
-- XOM (EXXON MOBIL CORPORATION)
-- OKE (ONEOK)
-- CCJ (CAMECO CORPORATION)
-- CSIQ (CANADIAN SOLAR INC)
-- REGI (RENEWABLE ENERGY GROUP, INC)
-- CVX (CHEVRON CORPORATION)
+Stocks: 
+
+- Energy Sector
+  - XOM (EXXON MOBIL CORPORATION)
+  - CVX (CHEVRON CORPORATION)
+- Tenchology Sector
+  - AAPL (Apple)
+  - TSLA (Tesla)
+- Financial Sector
+  - JPM (JPMorgan Chase & Co.)
+  - BLK (BlackRock)
 
 # Author 
 
