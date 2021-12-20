@@ -6,7 +6,7 @@ Stocks:
 - Energy Sector
   - XOM (EXXON MOBIL CORPORATION)
   - CVX (CHEVRON CORPORATION)
-- Tenchology Sector
+- Technology Sector
   - AAPL (Apple)
   - TSLA (Tesla)
 - Financial Sector
