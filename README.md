@@ -4,14 +4,14 @@
 Stocks: 
 
 - Energy Sector
-  - XOM (EXXON MOBIL CORPORATION)
-  - CVX (CHEVRON CORPORATION)
+  - XOM (Exxon Mobil Corporation)
+  - WMB (Williams Cos Inc)
 - Technology Sector
   - AAPL (Apple)
   - TSLA (Tesla)
 - Financial Sector
   - JPM (JPMorgan Chase & Co.)
-  - BLK (BlackRock)
+  - BLK (BlackRock, Inc.)
 
 # Author 
 
